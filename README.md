@@ -4,7 +4,7 @@ Authentication:
 - Authorization token (JWT)
 
 User:
-- Model with email (Unique), Password (hash), First name and Last name.
+- Model with Email (unique), Password (hash), First name and Last name.
 
 Logic:
 - Create an authorized endpoint for fetching a random joke. Jokes consist of the user's first name and last name.
