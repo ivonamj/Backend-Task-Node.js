@@ -7,8 +7,7 @@ User:
 - Model with email (Unique), Password (hash), First name and Last name.
 
 Logic:
-- Create an authorized endpoint for fetching a random joke. Jokes consist of the user's
-name and last name.
+- Create an authorized endpoint for fetching a random joke. Jokes consist of the user's first name and last name.
 - API url: http://www.icndb.com/api/
 - The user should receive mail with joke (nodemailer).
 
