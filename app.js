@@ -9,8 +9,6 @@ const jwt = require('jsonwebtoken')
 const auth = require('./middleware/auth')
 const nodemailer = require('nodemailer')
 const getJSON = require('get-json')
-const { from } = require('responselike')
-
 
 app.use(express.json())
 
