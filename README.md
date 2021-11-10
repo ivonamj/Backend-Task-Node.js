@@ -14,3 +14,12 @@ name and last name.
 
 Database:
 - Postgres
+
+.env:
+PORT
+DB_USERNAME
+DB_PASSWOR
+DB_HOST
+TOKEN_KEY
+EMAIL
+EMAIL_PASSWORD
