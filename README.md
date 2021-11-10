@@ -2,6 +2,7 @@
 Authentication:
 - Login and sign up
 - Authorization token (JWT)
+- 
 User:
 - Model with email (Unique), Password (hash), First name and Last name.
 Logic:
